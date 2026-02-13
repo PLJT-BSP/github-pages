@@ -11,6 +11,8 @@ on:
     branches:
       - my-pages
     paths:
+jobs:See actions and pull requests
+
       - _config.yml
 
 # Reference: https://docs.github.com/en/actions/security-guides/automatic-token-authentication
